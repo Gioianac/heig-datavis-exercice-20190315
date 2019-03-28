@@ -1,43 +1,43 @@
-<svg width="1200" heigth="800" xmlns="http://www.w3.org/2000/svg">
-<circle cx="90" cy="105" r="54" fill="black" />
-					 <text x="70" y="40" font-family="Helvetica" font-size="9">Canada(54)</text>
-<circle cx="180" cy="105" r="6" fill="#00dac3" />
-					 <text x="140" y="40" font-family="Helvetica" font-size="9">Norway(6)</text>
-<circle cx="270" cy="105" r="21" fill="orange" />
-					 <text x="210" y="40" font-family="Helvetica" font-size="9">USA(21)</text>
-<circle cx="360" cy="105" r="4" fill="yellow" />
-					 <text x="280" y="40" font-family="Helvetica" font-size="9">Austria(4)</text>
-<circle cx="450" cy="105" r="7" fill="green" />
-					 <text x="350" y="40" font-family="Helvetica" font-size="9">Germany(7)</text>
-<circle cx="540" cy="105" r="6" fill="red" />
-					 <text x="420" y="40" font-family="Helvetica" font-size="9">Netherlands(6)</text>
-<circle cx="630" cy="105" r="5" fill="purple" />
-					 <text x="490" y="40" font-family="Helvetica" font-size="9">Australia(5)</text>
-<circle cx="720" cy="105" r="3" fill="pink" />
-					 <text x="560" y="40" font-family="Helvetica" font-size="9">Liechtenstein(3)</text>
-<circle cx="810" cy="105" r="1" fill="grey" />
-					 <text x="630" y="40" font-family="Helvetica" font-size="9">Korea(1)</text>
-<circle cx="900" cy="105" r="1" fill="blue" />
-					 <text x="700" y="40" font-family="Helvetica" font-size="9">Czech Rep(1)</text>
-<circle cx="990" cy="105" r="1" fill="#0066ff" />
-					 <text x="770" y="40" font-family="Helvetica" font-size="9">Spain(1)</text>
-<circle cx="1080" cy="105" r="2" fill="#6600cc" />
-					 <text x="840" y="40" font-family="Helvetica" font-size="9">Sweden(2)</text>
-<circle cx="1170" cy="105" r="7" fill="#cc6699" />
-					 <text x="910" y="40" font-family="Helvetica" font-size="9">Switzerland(7)</text>
-<circle cx="1260" cy="105" r="1" fill="#ffff00" />
-					 <text x="980" y="40" font-family="Helvetica" font-size="9">Italy(1)</text>
-<circle cx="1350" cy="105" r="5" fill="#66ffcc" />
-					 <text x="1050" y="40" font-family="Helvetica" font-size="9">New Zealand(5)</text>
-<circle cx="1440" cy="105" r="15" fill="#ff9900" />
-					 <text x="1120" y="40" font-family="Helvetica" font-size="9">Luxembourg(15)</text>
-<circle cx="1530" cy="105" r="4" fill="#ccffff" />
-					 <text x="1190" y="40" font-family="Helvetica" font-size="9">Iceland(4)</text>
-<circle cx="1620" cy="105" r="2" fill="#ff5050" />
-					 <text x="1260" y="40" font-family="Helvetica" font-size="9">Malta(2)</text>
-<circle cx="1710" cy="105" r="1" fill="#006699" />
-					 <text x="1330" y="40" font-family="Helvetica" font-size="9">Belgium(1)</text>
-<circle cx="1800" cy="105" r="1" fill="undefined" />
-					 <text x="1400" y="40" font-family="Helvetica" font-size="9">Finland(1)</text>
-					 <text x="60" y="190" font-family="Helvetica" font-size="20">Demandes d'asiles par pays</text>
+<svg width="1800" heigth="800" xmlns="http://www.w3.org/2000/svg">
+	<circle cx="87" cy="120" r="54" fill="blue" />
+						<text x="80" y="30" font-family="Helvetica" font-size="10">Canada(54)</text>
+<circle cx="174" cy="120" r="6" fill="blue" />
+						<text x="160" y="30" font-family="Helvetica" font-size="10">Norway(6)</text>
+<circle cx="261" cy="120" r="21" fill="blue" />
+						<text x="240" y="30" font-family="Helvetica" font-size="10">USA(21)</text>
+<circle cx="348" cy="120" r="4" fill="blue" />
+						<text x="320" y="30" font-family="Helvetica" font-size="10">Austria(4)</text>
+<circle cx="435" cy="120" r="7" fill="blue" />
+						<text x="400" y="30" font-family="Helvetica" font-size="10">Germany(7)</text>
+<circle cx="522" cy="120" r="6" fill="blue" />
+						<text x="480" y="30" font-family="Helvetica" font-size="10">Netherlands(6)</text>
+<circle cx="609" cy="120" r="5" fill="blue" />
+						<text x="560" y="30" font-family="Helvetica" font-size="10">Australia(5)</text>
+<circle cx="696" cy="120" r="3" fill="blue" />
+						<text x="640" y="30" font-family="Helvetica" font-size="10">Liechtenstein(3)</text>
+<circle cx="783" cy="120" r="1" fill="blue" />
+						<text x="720" y="30" font-family="Helvetica" font-size="10">Korea(1)</text>
+<circle cx="870" cy="120" r="1" fill="blue" />
+						<text x="800" y="30" font-family="Helvetica" font-size="10">Czech Rep(1)</text>
+<circle cx="957" cy="120" r="1" fill="blue" />
+						<text x="880" y="30" font-family="Helvetica" font-size="10">Spain(1)</text>
+<circle cx="1044" cy="120" r="2" fill="blue" />
+						<text x="960" y="30" font-family="Helvetica" font-size="10">Sweden(2)</text>
+<circle cx="1131" cy="120" r="7" fill="blue" />
+						<text x="1040" y="30" font-family="Helvetica" font-size="10">Switzerland(7)</text>
+<circle cx="1218" cy="120" r="1" fill="blue" />
+						<text x="1120" y="30" font-family="Helvetica" font-size="10">Italy(1)</text>
+<circle cx="1305" cy="120" r="5" fill="blue" />
+						<text x="1200" y="30" font-family="Helvetica" font-size="10">New Zealand(5)</text>
+<circle cx="1392" cy="120" r="15" fill="blue" />
+						<text x="1280" y="30" font-family="Helvetica" font-size="10">Luxembourg(15)</text>
+<circle cx="1479" cy="120" r="4" fill="blue" />
+						<text x="1360" y="30" font-family="Helvetica" font-size="10">Iceland(4)</text>
+<circle cx="1566" cy="120" r="2" fill="blue" />
+						<text x="1440" y="30" font-family="Helvetica" font-size="10">Malta(2)</text>
+<circle cx="1653" cy="120" r="1" fill="blue" />
+						<text x="1520" y="30" font-family="Helvetica" font-size="10">Belgium(1)</text>
+<circle cx="1740" cy="120" r="1" fill="blue" />
+						<text x="1600" y="30" font-family="Helvetica" font-size="10">Finland(1)</text>
+						<text x="700" y="220" font-family="Helvetica" font-size="20">Demandes d'asiles par pays</text>
 </svg>
